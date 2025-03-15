@@ -49,7 +49,7 @@
 
     <h1>Information Desk</h1>
      
-    <form action=>
+    <form action="url" method="post">
         <fieldset>
             <legend>Personal Information</legend>
             
@@ -80,11 +80,9 @@
         </fieldset>
 
 
-    </form>
 
 </br>
 </br>
-
 
        <fieldset>
         <legend>Trainee's Track</legend>
@@ -131,6 +129,8 @@
         <label for="more_than_20">More than 20 kgs</label><br>
 
        </fieldset>
+</form>
+       
 
 </br>
 </br>
