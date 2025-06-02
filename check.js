@@ -1,3 +1,4 @@
+
 function valid() {
     var a = document.getElementById("id").value.trim();
     var b = document.getElementById("pass").value.trim();
